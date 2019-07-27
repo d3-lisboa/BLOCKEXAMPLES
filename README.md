@@ -35,10 +35,10 @@ MEETUP: 27/07/2019
 
 This is a block that shows how to use a d3.legend in version 3
 
- _[D3.legend in version 3](http://bl.ocks.org/ZJONSSON/3918369)_
+ _[D3.LEGEND V3](http://bl.ocks.org/ZJONSSON/3918369)_
 
 This is a library to create legends in D3 using verison 4
 
-_[D3.legend in version 4](https://d3-legend.susielu.com/)_
+_[D3.LEGEND V4](https://d3-legend.susielu.com/)_
 
 

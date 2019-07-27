@@ -5,8 +5,8 @@ LET'S LEARN BY EXPANDING IDEAS COLLECTIVELY :two_hearts:
 
 We fork block examples, which are related to the topics we discuss in our meet-up and create our own versions of it. Later we present the code to the others to that we end up with a collective creation and learning process. :neckbeard:
 
-## TOPIC: LINE & AREA GENERATORS 
-MEETUP: 14/072019
+### TOPIC: LINE & AREA GENERATORS 
+MEETUP: 14/07/2019
 
 This is the original version
 
@@ -29,3 +29,16 @@ _[D3 NEST - NESTING AND ACCESSING DATA IN D3V4](https://amber.rbind.io/2017/05/0
 Gareth's forked version: Terrorist Incidents in the EU 1970-2014 (multi line and area fork)
 
 _[Block](https://bl.ocks.org/cerico/9b23469eb1d72b6fc73feb8ae3e07b3e)_ | _[Repo](https://github.com/d3-lisboa/EU-Terrorism-Area-Chart)_
+
+### TOPIC: LEGENDS
+MEETUP: 27/07/2019
+
+This is a block that shows how to use a d3.legend in version 3
+
+ _[D3.legend in version 3](http://bl.ocks.org/ZJONSSON/3918369)_
+
+This is a library to create legends in D3 using verison 4
+
+_[D3.legend in version 4](https://d3-legend.susielu.com/)_
+
+
